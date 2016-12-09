@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/cygdrive/h/UsersData/pd14184/BD/income_model/development/bik/bik_model'
+let g:netrw_dirhist_2='/cygdrive/h/UsersData/pd14184/BD/income_model/development/bik/bik_model/data'
+let g:netrw_dirhist_3='/cygdrive/h/UsersData/pd14184/BD/income_model/development/bik/bik_model'
+let g:netrw_dirhist_4='/cygdrive/h/UsersData/pd14184/BD/income_model/development/bik'
+let g:netrw_dirhist_5='/cygdrive/h/UsersData/pd14184/BD/income_model/development'
+let g:netrw_dirhist_6='/cygdrive/h/UsersData/pd14184/BD/income_model/development/ads_exploratory'
